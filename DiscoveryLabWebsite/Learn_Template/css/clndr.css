@@ -122,10 +122,10 @@
 }
 .cal1 .clndr .clndr-table tr .day:hover{
 	color: #FFF;
-  	background:#f1b458;
+  	background:#FFE999;
 }
 .cal1 .clndr .clndr-table tr .day.today.event {
-     background:#FFE999;
+     background:#f1b458;
 	 color: #FFF;
 }
 .day.today.event:hover{
