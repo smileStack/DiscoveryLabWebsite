@@ -59,7 +59,7 @@ html[xmlns] .slides {display: block;}
 }
 .flex-control-nav li {display:inline-block; zoom: 1; *display: inline;padding:0.2em;}
 .flex-control-paging li a {width:8px; height:8px; display:inline-block;  background:#081E3F; cursor: pointer; text-indent: -9999px; -webkit-border-radius: 20px; -moz-border-radius: 20px; -o-border-radius: 20px; border-radius: 20px;}
-.flex-control-paging li a:hover { background:#c36c88; }
+.flex-control-paging li a:hover { background:#081E3F; }
 .flex-control-paging li a.flex-active { background:#f1b458; cursor: default; }
 
 .flex-control-thumbs {margin: 5px 0 0; position: static; overflow: hidden;}

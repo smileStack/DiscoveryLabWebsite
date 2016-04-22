@@ -9,7 +9,7 @@ h1, h2, h3 {margin-top: 0;}
 ul, ol {margin: 0;}
 p {margin: 0;}
 html, body{
-	font-family: 'PT Sans Narrow', sans-serif;
+	font-family: 'Helvetica','Arial', sans-serif;
 	font-size: 100%;
     background:#fff;
 }
@@ -21,8 +21,8 @@ body a{
 	-ms-transition:0.5s all;
 }
 .navbar-default {
-    background-color:#FFD952 !important;
-    border-color:#FFD952;
+    background-color:#F1B458 !important;
+    border-color:#F1B458;
     border-radius: 0px;
 }
 .navbar-default .navbar-nav > li > a {
@@ -84,7 +84,8 @@ body a{
 }
 .multi-column-dropdown li a:hover {
     text-decoration: none;
-    color: #262626;
+    /*color: #262626;*/
+		color: #574D4F;
     background-color: #f5f5f5;
 }
 .dropdown-menu li a {
