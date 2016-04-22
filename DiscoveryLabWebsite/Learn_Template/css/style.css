@@ -62,8 +62,8 @@ body a{
 .navbar-nav > li > a {
     padding: 10px 15px;
     text-align: center;
-    color: #000;
-		/*color: #fff;*/
+    /*color: #000;*/
+		color: #fff;
     font-weight: 100;
     font-size: 15px;
 }
@@ -202,9 +202,12 @@ ul.nav_1 li.last{
 	margin-right:0;
 }
 .nav .open>a, .nav .open>a:hover, .nav .open>a:focus, .nav>li>a:hover, .nav>li>a:focus{
-    background-color:#081E3F !important;
+    /*background-color:#081E3F !important;
     border-color:#081E3F;
-    color:#fff !important;
+    color:#fff !important;*/
+		background-color:#fff !important;
+    border-color:#fff;
+    color:#000 !important;
 }
 /*-- banner --*/
 .banner-bg{
