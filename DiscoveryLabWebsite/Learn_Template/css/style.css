@@ -10,7 +10,7 @@ ul, ol {margin: 0;}
 p {margin: 0;}
 html, body{
 	font-family: 'Helvetica','Arial', sans-serif;
-	font-size: 50%;
+	font-size: 100%;
     background:#fff;
 }
 body a{
@@ -63,7 +63,7 @@ body a{
     padding: 10px 15px;
     text-align: center;
     /*color: #000;*/
-		color: #fff;
+		color: #000;
     font-weight: 100;
     font-size: 15px;
 }
@@ -102,6 +102,7 @@ body a{
 .nav_bottom{
 	/*background:none;*/
 	background-color: #000000;
+	padding-bottom: 10px;
 }
 .nav-tabs {
     display: inline-block;
