@@ -10,7 +10,7 @@ ul, ol {margin: 0;}
 p {margin: 0;}
 html, body{
 	font-family: 'Helvetica','Arial', sans-serif;
-	font-size: 90%;
+	font-size: 50%;
     background:#fff;
 }
 body a{
@@ -207,7 +207,7 @@ ul.nav_1 li.last{
     color:#fff !important;*/
 		background-color:#fff !important;
     border-color:#fff;
-    color:#000 !important;
+    color:#081E3F !important;
 }
 /*-- banner --*/
 .banner-bg{
