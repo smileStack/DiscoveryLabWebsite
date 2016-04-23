@@ -12,6 +12,7 @@ html, body{
 	font-family: 'Helvetica','Arial', sans-serif;
 	font-size: 100%;
     background:#fff;
+		background-color: #fff;
 }
 body a{
 	transition:0.5s all;
@@ -55,15 +56,13 @@ body a{
 }
 .navbar-default .navbar-brand:hover, .navbar-default .navbar-brand:focus {
     color: #fff;
-    /*background-color: transparent;*/
-		background-color: #000;
+    background-color: transparent;
 
 }
 .navbar-nav > li > a {
     padding: 10px 15px;
     text-align: center;
-    /*color: #000;*/
-		color: #000;
+		color: #fff;
     font-weight: 100;
     font-size: 15px;
 }
@@ -100,9 +99,7 @@ body a{
     left:inherit;
 }
 .nav_bottom{
-	/*background:none;*/
-	background-color: #000000;
-	padding-bottom: 10px;
+	background:none;
 }
 .nav-tabs {
     display: inline-block;
@@ -197,7 +194,7 @@ ul.nav_1 li{
 	margin-right:0px;
 }
 ul.nav_1 li a{
-   color:#000;
+   color:#fff;
 }
 ul.nav_1 li.last{
 	margin-right:0;
