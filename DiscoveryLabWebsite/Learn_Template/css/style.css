@@ -27,7 +27,7 @@ body a{
     border-radius: 0px;
 }
 .navbar-default .navbar-nav > li > a {
-    color: #fff;
+    color: #000;
     font-weight: 300;
 }
 .navbar-default .navbar-nav > li > a span{
@@ -62,7 +62,7 @@ body a{
 .navbar-nav > li > a {
     padding: 10px 15px;
     text-align: center;
-		color: #fff;
+		color: #000;
     font-weight: 100;
     font-size: 15px;
 }
