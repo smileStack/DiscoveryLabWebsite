@@ -27,7 +27,7 @@ body a{
     border-radius: 0px;
 }
 .navbar-default .navbar-nav > li > a {
-    color: #000;
+    color: #fff;
     font-weight: 300;
 }
 .navbar-default .navbar-nav > li > a span{
@@ -194,7 +194,7 @@ ul.nav_1 li{
 	margin-right:0px;
 }
 ul.nav_1 li a{
-   color:#fff;
+   color:#000;
 }
 ul.nav_1 li.last{
 	margin-right:0;
