@@ -790,8 +790,8 @@ a#profile-tab, a#home-tab, a#profile-tab1{
     vertical-align: middle;
 }
 .newsletter input[type="submit"]:hover{
-	background:#081E3F;
-	color: #fff;
+	background:#FFE999;
+	color: #081E3F;
 }
 .portfolio-left{
     background: #f2f4f8;
