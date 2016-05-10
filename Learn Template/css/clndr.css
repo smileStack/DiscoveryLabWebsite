@@ -26,7 +26,7 @@
 	text-transform: uppercase;
 	padding:20px 20px;
 	text-align: center;
-	background-color:#2f374c;
+	background-color:#081E3F;
 	
 }
 .cal1 .clndr .clndr-controls .month {
@@ -82,7 +82,7 @@
 .cal1 .clndr .clndr-table .header-days .header-day {
   vertical-align: middle;
   text-align: center;
-  color:#2f374c;
+  color:#081E3F;
 }
 .cal1 .clndr .clndr-table tr {
     height:45px;
@@ -118,7 +118,7 @@
 }
 .cal1 .clndr .clndr-table tr .day.today:hover {
   	color: #FFF;
-  	background:#2f374c;
+  	background:#081E3F;
 }
 .cal1 .clndr .clndr-table tr .day:hover{
 	color: #FFF;
@@ -129,7 +129,7 @@
 	 color: #FFF;
 }
 .day.today.event:hover{
-	background:#096e9a;
+	background:#081E3F;
 	color:#FFF;
 }
 .cal1 .clndr .clndr-table tr .day .day-contents {
