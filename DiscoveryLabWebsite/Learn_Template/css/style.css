@@ -778,7 +778,7 @@ a#profile-tab, a#home-tab, a#profile-tab1{
     display:inline-block;
 }
 .newsletter input[type="submit"] {
-    color: #081E3F;
+    color: #000;
     text-transform: uppercase;
     font-size: 1.1em;
     font-weight: 500;
@@ -790,7 +790,8 @@ a#profile-tab, a#home-tab, a#profile-tab1{
     vertical-align: middle;
 }
 .newsletter input[type="submit"]:hover{
-	background:#fff;
+	background:#081E3F;
+	color: #fff;
 }
 .portfolio-left{
     background: #f2f4f8;
