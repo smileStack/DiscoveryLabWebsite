@@ -185,7 +185,7 @@ i.newzland{
     line-height: 20px;
 }
 ul.nav_1{
-	float:none;
+	float: inherit;
 }
 ul.nav_1 li{
 	margin-right:44px;
