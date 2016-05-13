@@ -23,7 +23,7 @@ body a{
 }
 .title {
 	height: 100%;
-	padding: 0;
+	padding: 3em 0 0 0;
 	margin: 20px 0 0 0;
 	padding-left: 15px;
 }
@@ -1847,7 +1847,7 @@ ul.about_links li a:hover{
 }
 /* -- admission --*/
 .admission{
-	padding:5em 0;
+	padding:2em 0;
 }
 .admission h1{
 	color:#000;
