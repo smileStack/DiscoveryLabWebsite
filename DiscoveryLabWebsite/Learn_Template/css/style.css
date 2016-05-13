@@ -1037,26 +1037,26 @@ ul.footer_list li a:hover{
 .copy p a:hover{
 	color:#f1b458;
 }
-.breadcrumb1 ul{
+.breadcrumb1 .breadcrumb2 ul{
 	padding:0;
 	margin:0;
 	list-style:none;
 }
-.breadcrumb1 li {
+.breadcrumb1 .breadcrumb2 li {
     position: relative;
     margin-right: 10px;
     padding-right: 10px;
     display: inline-block;
     color:#fff;
 }
-.breadcrumb1 li.current-page:after{
+.breadcrumb1 .breadcrumb2 li.current-page:after{
 	display:none;
 }
-.breadcrumb1 li a {
+.breadcrumb1 .breadcrumb2 li a {
     display:inline-block;
     color:#f1b458;
 }
-.breadcrumb1 li a:hover{
+.breadcrumb1 .breadcrumb2 li a:hover{
 	color:#fff;
 }
 .breadcrumb1 li:after {
@@ -1078,7 +1078,7 @@ p.description{
     font-size: 0.95em;
     line-height: 1.8em;
     width: 70%;
-    margin: 0 auto 2em auto;
+    margin: 0 auto 1em auto;
 }
 /*-- courses --*/
 .courses_banner{
@@ -1087,9 +1087,9 @@ p.description{
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
-    min-height:250px;
+    min-height:200px;
     text-align: center;
-    padding: 3em 0 0 0;
+    padding: 2em 0 0 0;
 }
 .table-header {
     background-color:#081E3F;
@@ -1112,7 +1112,7 @@ p.description{
     width: 17%;
 }
 .courses_box1 {
-    padding: 5em 0;
+    padding: 4em 0;
 }
 .course_list .table-list {
     margin: 0;
@@ -1675,9 +1675,9 @@ p.lead{
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
-    min-height:600px;
+    min-height:500px;
     text-align: center;
-    padding:5em 0 0 0;
+    padding:2em 0 0 0;
 }
 .bg_1 h2{
 	color:#fff;
