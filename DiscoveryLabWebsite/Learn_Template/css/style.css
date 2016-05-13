@@ -1037,29 +1037,29 @@ ul.footer_list li a:hover{
 .copy p a:hover{
 	color:#f1b458;
 }
-.breadcrumb1 .breadcrumb2 ul{
+.breadcrumb1  ul{
 	padding:0;
 	margin:0;
 	list-style:none;
 }
-.breadcrumb1 .breadcrumb2 li {
+.breadcrumb1  li {
     position: relative;
     margin-right: 10px;
     padding-right: 10px;
     display: inline-block;
     color:#fff;
 }
-.breadcrumb1 .breadcrumb2 li.current-page:after{
+.breadcrumb1  li.current-page:after{
 	display:none;
 }
-.breadcrumb1 .breadcrumb2 li a {
+.breadcrumb1  li a {
     display:inline-block;
     color:#f1b458;
 }
-.breadcrumb1 .breadcrumb2 li a:hover{
+.breadcrumb1  li a:hover{
 	color:#fff;
 }
-.breadcrumb1 .breadcrumb2 li:after {
+.breadcrumb1  li:after {
     content: '\f105';
     font: normal normal normal 13px/1 "FontAwesome";
     display: block;
