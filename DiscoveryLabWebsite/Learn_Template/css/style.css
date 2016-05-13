@@ -29,7 +29,7 @@ body a{
 }
 .navbar-default {
     background-color:#ffffff !important;
-    border-color:#F1B458;
+    border-color:#ffffff;
     border-radius: 0px;
 }
 .navbar-default .navbar-nav > li > a {
@@ -107,7 +107,7 @@ body a{
 }
 .nav_bottom{
 	margin-top: 0;
-	background:none;
+	background-color: #000;
 }
 .nav-tabs {
     display: inline-block;
