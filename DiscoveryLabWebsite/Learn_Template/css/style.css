@@ -142,6 +142,7 @@ body a{
 .nav-list > li > a:hover { text-decoration: none; }
 .nav-list > li > a > span {
   display: block;
+	font
   font-weight: bold;
   text-transform: uppercase;
 }
@@ -202,7 +203,7 @@ ul.nav_1 li{
 	margin-right:0px;
 }
 ul.nav_1 li a{
-   color:#000;
+   color:#fff;
 }
 ul.nav_1 li.last{
 	margin-right:0;
@@ -211,8 +212,8 @@ ul.nav_1 li.last{
     /*background-color:#081E3F !important;
     border-color:#081E3F;
     color:#fff !important;*/
-		background-color:#fff !important;
-    border-color:#fff;
+		background-color:#f1b458 !important;
+    border-color:#f1b458;
     color:#081E3F !important;
 }
 /*-- banner --*/
