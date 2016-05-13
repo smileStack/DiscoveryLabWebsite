@@ -1068,6 +1068,38 @@ ul.footer_list li a:hover{
     top:6px;
     color: #cecfd2;
 }
+.breadcrumb2  ul{
+	padding:0;
+	margin:0;
+	list-style:none;
+}
+.breadcrumb2  li {
+    position: relative;
+    margin-right: 10px;
+    padding-right: 10px;
+    display: inline-block;
+    color:#fff;
+}
+.breadcrumb2  li.current-page:after{
+	display:none;
+}
+.breadcrumb2  li a {
+    display:inline-block;
+    color:#f1b458;
+}
+.breadcrumb2  li a:hover{
+	color:#fff;
+}
+.breadcrumb2  li:after {
+    content: '\f105';
+    font: normal normal normal 13px/1 "FontAwesome";
+    display: block;
+    position: absolute;
+    left: 100%;
+    top:6px;
+    color: #cecfd2;
+}
+
 .courses_banner h3{
 	color:#fff;
 	font-size:2em;
