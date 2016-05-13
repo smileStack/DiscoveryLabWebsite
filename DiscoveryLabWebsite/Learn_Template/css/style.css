@@ -106,6 +106,7 @@ body a{
     left:inherit;
 }
 .nav_bottom{
+	margin-top: 0;
 	background:none;
 }
 .nav-tabs {
