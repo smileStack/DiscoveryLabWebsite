@@ -66,13 +66,14 @@ body a{
     background-color: transparent;
 
 }
-.navbar-nav > li > a {
+/*.navbar-nav > li > a {
     padding: 10px 15px;
     text-align: center;
 		color: #000;
     font-weight: 300;
     font-size: 15px;
-}
+		}*/
+
 .dropdown-menu.columns-2 {
     min-width: 400px;
 }
@@ -208,6 +209,13 @@ ul.nav_1 li a{
 }
 ul.nav_1 li.last{
 	margin-right:0;
+}
+.navbar-nav > li > a {
+    padding: 10px 15px;
+    text-align: center;
+		color: #000;
+    font-weight: 300;
+    font-size: 15px;
 }
 .nav .open>a, .nav .open>a:hover, .nav .open>a:focus, .nav>li>a:hover, .nav>li>a:focus{
     /*background-color:#081E3F !important;
