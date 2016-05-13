@@ -1078,7 +1078,7 @@ ul.footer_list li a:hover{
     margin-right: 10px;
     padding-right: 10px;
     display: inline-block;
-    color:#fff;
+    color:#000;
 }
 .breadcrumb2  li.current-page:after{
 	display:none;
@@ -3432,3 +3432,26 @@ h5.shortcode {
     margin: 2em 0 0 0;
 }
 }
+
+/**/
+/*#content-side-nav-container-_OkCSfiDgY2ux {
+        position: relative;
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+
+    .cs-content-side-nav-links {
+        margin-top: 10px;
+    }
+
+    @media (max-width: 768px) {
+        .cs-content-side-nav-links li a {
+            text-align: center;
+            min-height: 40px;
+            padding: 10px 0px;
+            display: block;
+        }
+        .cs-content-side-nav-links li { margin-bottom: 10px; }
+    }*/
+
+/**/
