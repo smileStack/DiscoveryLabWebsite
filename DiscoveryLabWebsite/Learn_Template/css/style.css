@@ -21,7 +21,7 @@ body a{
 	-o-transition:0.5s all;
 	-ms-transition:0.5s all;
 }
-#img body{
+.page_5 body{
 	background-image: url(../images/yellow-point-background.jpg) no-repeat center;
 }
 .title {
