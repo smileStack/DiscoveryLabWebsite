@@ -24,8 +24,10 @@ body a{
 	-o-transition:0.5s all;
 	-ms-transition:0.5s all;
 }
+
 #b{
 	background-image: url(../images/yellow-point-background.jpg) no-repeat center top !important;
+	background-color: none;
 }
 
 #white{
