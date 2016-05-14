@@ -21,9 +21,10 @@ body a{
 	-o-transition:0.5s all;
 	-ms-transition:0.5s all;
 }
-body .page_5{
-	background-image: url(../images/yellow-point-background.jpg) no-repeat center !important;
+body #b{
+	background-image: url(../images/yellow-point-background.jpg) no-repeat center top !important;
 }
+
 .title {
 	height: 100%;
 	padding: 3em 0 0 0;
