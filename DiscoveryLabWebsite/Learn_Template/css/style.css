@@ -28,6 +28,15 @@ body #b{
 	background-image: url(../images/yellow-point-background.jpg) no-repeat center top !important;
 }
 
+.container #white{
+    margin-right: auto;
+    margin-left: auto;
+    padding-left: 15px;
+    padding-right: 15px;
+    background-color: white;
+}
+
+
 .title {
 	height: 100%;
 	padding: 3em 0 0 0;
