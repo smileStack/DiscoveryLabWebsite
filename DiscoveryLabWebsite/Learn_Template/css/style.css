@@ -148,7 +148,7 @@ body a{
 .nav-tabs > li.active > a:focus {
   border: none;
   border-radius: 0;
-	color: green;
+	color: black;
 }
 .nav-list { border-bottom: 1px solid #eee; }
 .nav-list > li {
