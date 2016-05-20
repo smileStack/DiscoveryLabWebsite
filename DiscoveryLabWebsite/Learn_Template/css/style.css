@@ -27,13 +27,13 @@ body a{
 
 
 #b{
-	background-image: url(../images/yellow-point-background.jpg) no-repeat center top !important;
+	background: url(../images/yellow-point-background.jpg) no-repeat center center fixed !important;
+	background-size: cover;
 	background-color: none;
 }
 
 #help{
     margin: 0 20px;
-		    background-color: green;
 }
 
 
