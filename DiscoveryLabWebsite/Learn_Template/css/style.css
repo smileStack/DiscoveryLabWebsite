@@ -3492,6 +3492,9 @@ h5.shortcode {
     -moz-border-radius: 0 4px 4px 0;
     border-radius: 0 4px 4px 0;
 }
+.nav-container {
+	background: white;
+}
 /**********/
 
 /**/
