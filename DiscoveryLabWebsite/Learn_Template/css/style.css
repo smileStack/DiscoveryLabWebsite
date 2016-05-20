@@ -132,7 +132,8 @@ body a{
     padding-top:15px;
 }
 .nav-tabs1{
-    display: inline-block;
+    /*display: inline-block;*/
+		display: inline-flex;
     border-bottom: none;
     font-weight:500;
     background-color:#f1b458;
@@ -147,6 +148,7 @@ body a{
 .nav-tabs > li.active > a:focus {
   border: none;
   border-radius: 0;
+	color: green;
 }
 .nav-list { border-bottom: 1px solid #eee; }
 .nav-list > li {
@@ -158,7 +160,7 @@ body a{
 .nav-list > li > a:hover { text-decoration: none; }
 .nav-list > li > a > span {
   display: block;
-	font
+	color: red;
   font-weight: bold;
   text-transform: uppercase;
 }
