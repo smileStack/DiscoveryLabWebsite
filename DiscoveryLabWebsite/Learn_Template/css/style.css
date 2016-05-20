@@ -14,9 +14,7 @@ html, body{
     background:#fff;
 		background-color: #fff;
 }
-body{
-	background-color: red;
-}
+
 body a{
 	transition:0.5s all;
 	-webkit-transition:0.5s all;
@@ -25,9 +23,8 @@ body a{
 	-ms-transition:0.5s all;
 }
 
-
 #b{
-	background: url(../images/yellow-point-background.jpg) no-repeat center center fixed !important;
+	background: url(../images/yellow-point-background.jpg) no-repeat center fixed !important;
 	background-size: cover;
 	background-color: none;
 }
