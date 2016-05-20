@@ -30,7 +30,7 @@ body a{
 }
 
 #white{
-    margin: 20px 20px;
+    margin: 20px 30px;
 		background-color: white;
 }
 
@@ -140,6 +140,10 @@ body a{
     width: 100%;
     padding:0;
 }
+#inactive-nav {
+	color:black;
+}
+
 .nav-tabs > li > a,
 .nav-tabs > li > a:hover,
 .nav-tabs > li > a:focus,
@@ -303,6 +307,7 @@ ul.nav_1 li.last{
 }
 .navbar>.container .navbar-brand, .navbar>.container-fluid .navbar-brand {
     margin-left: 0 !important;
+		background: url(../images/discoverylabLOGO.jpg) !important;
 }
 /*------------------ Slider Part starts Here----------*/
 #slider2,
