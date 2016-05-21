@@ -192,12 +192,11 @@ i.us{
 i.newzland{
 	background: url("../images/f2.jpg") no-repeat;
 }
-span.logo{
-		width: 120px;
-		height: auto;
-    height: auto;
-    float: left;
-		background: url(../images/discoverylabLOGO.jpg) no-repeat !important;
+div.image-container{
+	display: flex;
+	align-content:center;
+	margin-right: auto;
+		background: url() no-repeat !important;
 }
 .search-form {
     background-color:#f1b458;
