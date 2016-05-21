@@ -115,7 +115,7 @@ body a{
 .dropdown-menu li a {
     padding: 5px 15px;
     font-weight: 300;
-		color: #000;
+		color: #000 !important;
 }
 .dropdown-menu {
     right: 0 !important;
@@ -312,7 +312,6 @@ ul.nav_1 li.last{
 }
 .navbar>.container .navbar-brand, .navbar>.container-fluid .navbar-brand {
     margin-left: 0 !important;
-		background: url(../images/discoverylabLOGO.jpg) !important;
 }
 /*------------------ Slider Part starts Here----------*/
 #slider2,
@@ -2903,6 +2902,7 @@ input.no-box1{
 }
 .navbar-brand {
     margin: 15px 0 0 0;
+		background: url(../images/discoverylabLOGO.jpg) no-repeat left !important;
 }
 .col-sm-3.dropdown-button {
     margin-bottom: 5px;
