@@ -55,7 +55,7 @@ body a{
 }
 .navbar {
    min-height:120%;
-	 margin-top: 6em;
+	 margin-top: 4em;
    margin-bottom:0;
 }
 .navbar-nav {
@@ -196,7 +196,6 @@ div.image-container{
 	display: flex;
 	align-content:center;
 	margin-right: auto;
-		background: url() no-repeat !important;
 }
 .search-form {
     background-color:#f1b458;
