@@ -140,8 +140,13 @@ body a{
     width: 100%;
     padding:0;
 }
-#inactive-nav {
-	color:black;
+
+.inactive-nav > li > a {
+    padding: 10px 15px;
+    text-align: center;
+		color: #000;
+    font-weight: 300;
+    font-size: 15px;
 }
 
 .nav-tabs > li > a,
