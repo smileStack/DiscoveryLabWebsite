@@ -25,7 +25,7 @@ body a{
 
 #b{
 	background: url(../images/colorful-abstract-triangle-pattern.jpg) no-repeat center fixed !important;
-	background-size: cover;
+	background-size: cover !important;
 	background-color: none;
 }
 
